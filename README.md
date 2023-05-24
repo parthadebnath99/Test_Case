@@ -12,7 +12,7 @@ Test Plan is a dynamic document. The success of a testing project depends upon a
 	
 
 
-3. ###### **Test case**
+3. ###### **Test Case**
 A test case is a document, which has a set of test data, preconditions, expected results and postconditions, developed for a particular test scenario in order to verify compliance against a specific requirement.			
 				
 
@@ -21,6 +21,9 @@ A test case is a document, which has a set of test data, preconditions, expected
 
 
 
+4. ###### **Test Case Report**
+
+Test Report is a document which contains a summary of all test activities and final test results of a testing project. Test report is an assessment of how well the Testing is performed. Based on the test report, stakeholders can evaluate the quality of the tested product and make a decision on the software release.
 
 ![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/a81a32dd-7a72-46f8-9e44-f8cc2d07656f)   
 
