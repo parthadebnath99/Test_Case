@@ -34,7 +34,10 @@ A test case is a document, which has a set of test data, preconditions, expected
 
 Test Report is a document which contains a summary of all test activities and final test results of a testing project. Test report is an assessment of how well the Testing is performed. Based on the test report, stakeholders can evaluate the quality of the tested product and make a decision on the software release.
 
-![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/a81a32dd-7a72-46f8-9e44-f8cc2d07656f)   
+
+
+![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/d5a6cebb-3387-4a27-b2d1-ce9a5b9d3c4c)
+   
 
 
 
