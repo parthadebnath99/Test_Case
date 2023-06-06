@@ -46,5 +46,6 @@ Test Report is a document which contains a summary of all test activities and fi
 
 
 
- ![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/8412aec9-9bd0-4044-a765-05dd5c2c7fb7)
+ ![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/de08bbb8-1bf7-45b2-bbc1-8a645071d52b)
+
 
