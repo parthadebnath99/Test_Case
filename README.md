@@ -49,4 +49,7 @@ A test Report is a document that contains a summary of all test activities and t
  ![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/de08bbb8-1bf7-45b2-bbc1-8a645071d52b)
 
 
-### 4.  **Bug Reporting**
+### 5.  **Bug Reporting**
+
+						
+![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/eff8b502-b556-439c-88ad-11de81aa1b60)
