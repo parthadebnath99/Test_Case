@@ -51,5 +51,7 @@ A test Report is a document that contains a summary of all test activities and t
 
 ### 5.  **Bug Reporting**
 
-						
+Bug reporting is an essential and continuous aspect of the software development life cycle. It involves collecting, formatting, storing, and sharing diagnostic information about issues that interfere with the functionality of a website or application.
+
+
 ![image](https://github.com/parthadebnath99/Test_Case-Manual-testing/assets/43374147/eff8b502-b556-439c-88ad-11de81aa1b60)
